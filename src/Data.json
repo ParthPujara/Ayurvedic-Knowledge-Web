@@ -1,0 +1,594 @@
+[
+  {
+    "drug_name": "Agaru",
+    "link": "/list/Agaru"
+  },
+  {
+    "drug_name": "Agnimantha",
+    "link": "/list/Agnimantha"
+  },
+  {
+    "drug_name": "Ahiphena",
+    "link": "/list/Ahiphena"
+  },
+  {
+    "drug_name": "Amalaki",
+    "link": "/list/Amalaki"
+  },
+  {
+    "drug_name": "Apamarga",
+    "link": "/list/Apamarga"
+  },
+  {
+    "drug_name": "Aragwadha",
+    "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti laboriosam earum neque repellat vitae itaque, enim eos, quis saepe nam consequatur natus veritatis sed rerum voluptates iure illo a. Eveniet unde facilis fuga tempora! Deleniti eveniet alias a hic rerum ullam itaque, modi explicabo quaerat cupiditate esse illum doloremque nulla.",
+    "link": "/list/Aragwadha",
+    "Synonymns": [
+      "आरग्वध - That which removes diseases.",
+      "राजवृक्ष - A beautiful tree like a king.",
+      "चतुरङ्गुल - Inside the fruit, the marrow is demarcated at every four finger distance.",
+      "शम्पाकः- As a drug provides well being.",
+      "कृतमाल- Flowers appear like a garland.",
+      "दीर्घफल: - The fruits are long and stick like.",
+      "आरेवत – expels the mala from the body."
+    ],
+    "Botanical_name": "Cassia fisula, Family name Fabaceae",
+    "Classification": [
+      "Charak - Kusthaghna, Kandughna, Virechanopaga.",
+      "Sushruta- Aragvadhadi, Shymadi, Adhobhaghar"
+    ],
+    "Habitat": "Grows all over India and as it is a beautiful plant, it is cultivated in gardens.",
+    "Habit": "A medium sized perennial tree.",
+    "Morphology": [
+      "Leaves - Leaves 8-16 inch long, leaflets 8 pairs, ovate, acuminate.",
+      "Flowers -  beautiful, Golden yellow in colour.",
+      "Fruits - stick like, long with marrow inside.",
+      "Seeds -  brownish flat."
+    ],
+    "Useful_part": "Fruit, Root, Bark",
+    "Phytoconstituents": "Antraquinone, sucrose",
+    "Rasapanchaka": [
+      "Rasa - Madhura, Tikta",
+      "Guna - Guru, Snigdha",
+      "Vipaka - Madhura",
+      "Virya - Sita",
+      "Doshakarma - Vata pitta samaka "
+    ],
+    "Karma": "Bruhana Karma, jwarahara, kustaghna, best sramsaka.",
+    "Agrya_karma": "चतुरङ्गलो मृदु विरेचनानां श्रेष्ठं । (च सु २५)",
+    "Therapeutic_indication": "Raktapitta, Rajyakshama, Vatavyadhi, Pandu, Pradara.",
+    "Amayika_Prayoga": [
+      "Prameha - aragwadha kashaya",
+      "Amavata - leaves of aragwadha are fried with mustard oil and chewed after evening meal.",
+      "Jwara - phalamajja +drasha rasa or cow milk"
+    ],
+    "Dose": ["Churna - 3 to 6 g", "Phalamajja - 10 to 20 g"],
+    "Yoga_formulation": [
+      "Aragwadhadyarista",
+      "Aragwadha avaleha",
+      "Mahamanjistadi kwatha",
+      "Maha marichyadi taila"
+    ],
+    "Shlok": [
+      "ज्वरे तु सततं पथ्यम् कोस्थशुद्धिकरं परं । ( भा नि )",
+      ""
+    ]
+  },
+  {
+    "drug_name": "Ardraka-Sunthi",
+    "link": "/list/Ardraka-Sunthi"
+  },
+  {
+    "drug_name": "Arjuna",
+    "link": "/list/Arjuna"
+  },
+  {
+    "drug_name": "Arkadvaya",
+    "link": "/list/Arkadvaya"
+  },
+  {
+    "drug_name": "Ashwagandha",
+    "link": "/list/Ashwagandha"
+  },
+  {
+    "drug_name": "Asoka",
+    "link": "/list/Asoka"
+  },
+  {
+    "drug_name": "Ativisha",
+    "link": "/list/Ativisha"
+  },
+  {
+    "drug_name": "Bakuchi",
+    "link": "/list/Bakuchi"
+  },
+  {
+    "drug_name": "Baladvaym",
+    "link": "/list/Baladvaym"
+  },
+  {
+    "drug_name": "Bhallataka",
+    "link": "/list/Bhallataka"
+  },
+  {
+    "drug_name": "Bharangi",
+    "link": "/list/Bharangi"
+  },
+  {
+    "drug_name": "Bhrungaraj",
+    "link": "/list/Bhrungaraj"
+  },
+  {
+    "drug_name": "Bibhitaka",
+    "link": "/list/Bibhitaka"
+  },
+  {
+    "drug_name": "Bijak",
+    "link": "/list/Bijak"
+  },
+  {
+    "drug_name": "Bilva",
+    "link": "/list/Bilva"
+  },
+  {
+    "drug_name": "Brahmni",
+    "link": "/list/Brahmni"
+  },
+  {
+    "drug_name": "Bruhati",
+    "link": "/list/Bruhati"
+  },
+  {
+    "drug_name": "Chandanadvaya",
+    "link": "/list/Chandanadvaya"
+  },
+  {
+    "drug_name": "Chitraka",
+    "link": "/list/Chitraka"
+  },
+  {
+    "drug_name": "Dadima",
+    "link": "/list/Dadima"
+  },
+  {
+    "drug_name": "Devadaru",
+    "link": "/list/Devadaru"
+  },
+  {
+    "drug_name": "Dhataki",
+    "link": "/list/Dhataki"
+  },
+  {
+    "drug_name": "Durva",
+    "link": "/list/Durva"
+  },
+  {
+    "drug_name": "Eladvayam",
+    "link": "/list/Eladvayam"
+  },
+  {
+    "drug_name": "Eranda",
+    "link": "/list/Eranda"
+  },
+  {
+    "drug_name": "Gambhari",
+    "link": "/list/Gambhari"
+  },
+  {
+    "drug_name": "Gokshura",
+    "link": "/list/Gokshura"
+  },
+  {
+    "drug_name": "Guduchi",
+    "link": "/list/Guduchi"
+  },
+  {
+    "drug_name": "Guggulu",
+    "link": "/list/Guggulu"
+  },
+  {
+    "drug_name": "Haridradvaya",
+    "link": "/list/Haridradvaya"
+  },
+  {
+    "drug_name": "Haritaki",
+    "image": "https://ayurvedicdesc.000webhostapp.com/Images/Haritaki.png",
+    "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti laboriosam earum neque repellat vitae itaque, enim eos, quis saepe nam consequatur natus veritatis sed rerum voluptates iure illo a. Eveniet unde facilis fuga tempora! Deleniti eveniet alias a hic rerum ullam itaque, modi explicabo quaerat cupiditate esse illum doloremque nulla.",
+    "link": "/list/Haritaki",
+    "Synonymns": [
+      "अभया - It rejuvenates the body and wards off for fears.",
+      "अमृता - It has rejuvenation quality and protects from old-age disorder.",
+      "जीवंती - It brings back normalcy and promotes strength.",
+      "पथ्या - It is very much conducive to the channels and never harm mind and body.",
+      "वयस्या - It promotes longevity.",
+      "श्रेयसी - It is best and auspicious drug.",
+      "पंचभद्रिका - It has five rasa."
+    ],
+    "Botanical_name": "Terminalia chebula, Combretaceae",
+    "Classification": ["Charaka - Vayasthapana varga, Jwarahara varga, virecanopaga varga, kusthaghna varga, prajasthapana varga, arsoghna varga, hikkanigrahana varga",""],
+    "Types": "Vijaya, Cetaki, Putana, Rohini, Amrita, Abhaya, Jivanti",
+    "Habitat": "Found all over India especially in firsts of North India, central province and South India",
+    "Habit": "Moderte to large size deciduous tree.",
+    "Morphology": ["Leaves - alternate or subopposite, pubescent usually with two glands near the top.", ""],
+    "Useful_part": "Phala (fruit)",
+    "Phytoconstituents": "Tannin, chebulinic acid, gllic acid",
+    "Rasapanchaka": [
+      "Rasa - Kasaya, Madhura, Amla, Katu, Tikta",
+      "Guna - Laghu, Ruksa",
+      "Vipaka - Madhura",
+      "Virya - Usna",
+      "Doshakarma - Tridosha samaka"
+    ],
+    "Karma": "Rasayana, Medhya Anulomana, Swasahara, Lekhana, Dipana, Pachana.",
+    "Agrya_karma": "हरीतकी पथयानां । (च. सू. २५/५०)",
+    "Therapeutic_indication": "Vibandha, swasa, kasa, prameha, arsha, sotha.",
+    "Amayika_Prayoga": [
+      "Parinam shula - haritaki + jaggery + sugar",
+      "Vatavyadhi - haritaki + cow's urine"
+    ],
+    "Dose": ["Churna - 1 g", ""],
+    "Yoga_formulation": [
+      "Triphala churna",
+      "Dasamula haritaki",
+      "Haritakyadi churna",
+      "Vyaghri haritaki"
+    ],
+    "Shlok": [
+      "Ritu Haritaki",
+      "सिन्धूत्थशर्कराशुणठीकणामधुगुडे: क्रमात ।",
+      "वर्षादिष्वभया प्राशया रसायांगुणाषीणा ।। (भा. प्र.)"
+    ]
+  },
+  {
+    "drug_name": "Hingu",
+    "link": "/list/Hingu"
+  },
+  {
+    "drug_name": "Jambu",
+    "link": "/list/Jambu"
+  },
+  {
+    "drug_name": "Jatamansi",
+    "link": "/list/Jatamansi"
+  },
+  {
+    "drug_name": "Jatiphala",
+    "link": "/list/Jatiphala"
+  },
+  {
+    "drug_name": "Jeerkadvaya",
+    "link": "/list/Jeerkadvaya"
+  },
+  {
+    "drug_name": "Jyotishmati",
+    "link": "/list/Jyotishmati"
+  },
+  {
+    "drug_name": "Kalamegha",
+    "link": "/list/Kalamegha"
+  },
+  {
+    "drug_name": "Kampillaka",
+    "link": "/list/Kampillaka"
+  },
+  {
+    "drug_name": "Kanchanara",
+    "link": "/list/Kanchanara"
+  },
+  {
+    "drug_name": "Kantakari",
+    "link": "/list/Kantakari"
+  },
+  {
+    "drug_name": "Kapikacchu",
+    "link": "/list/Kapikacchu"
+  },
+  {
+    "drug_name": "Karkatshringi",
+    "link": "/list/Karkatshringi"
+  },
+  {
+    "drug_name": "Karpura",
+    "link": "/list/Karpura"
+  },
+  {
+    "drug_name": "Katuki",
+    "link": "/list/Katuki"
+  },
+  {
+    "drug_name": "Khadira",
+    "link": "/list/Khadira"
+  },
+  {
+    "drug_name": "Kiratatikta",
+    "link": "/list/Kiratatikta"
+  },
+  {
+    "drug_name": "Kumari",
+    "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti laboriosam earum neque repellat vitae itaque, enim eos, quis saepe nam consequatur natus veritatis sed rerum voluptates iure illo a. Eveniet unde facilis fuga tempora! Deleniti eveniet alias a hic rerum ullam itaque, modi explicabo quaerat cupiditate esse illum doloremque nulla.",
+    "link": "/list/Kumari",
+    "Synonymns": [
+      "स्थूलदला - Kumari has very big and thick leaves",
+      "घृतकुमारी - leaves of Kumari have juice which resembles ghee.",
+      "कन्या - Kumari possesses rejuvenative qualities and it is also very useful in disorders of teenage girls.",
+      "गृहकन्य - it is home medicine for women."
+    ],
+    "Botanical_name": "Aloe vera, Family name Liliceae",
+    "Habitat": "Cultivated throughout India as a comercial plant.",
+    "Habit": "Perennial dwarf fleshy leaved plant .",
+    "Morphology": [
+      "Leaves - large succulent, subulate. Leaves flat or slightly concave on the upper surface, sessile and spiny toothed at the margin.", 
+      "Flowers -  Pendulous, yellow or orange coloured"
+    ],
+    "Useful_part": "Patra (leaves)",
+    "Phytoconstituents": "Aloin-barbaloin, aloesone",
+    "Rasapanchaka": [
+      "Rasa - Tikta, Madhura",
+      "Guna - Snigdha, Picchila",
+      "Vipaka - Katu",
+      "Virya - Sita",
+      "Prabhava - Bhedana",
+      "Doshakarma - Tridosha samaka"
+    ],
+    "Karma": "Bhedana, Rasayana, Balya, Kusthagna, Krimighna.",
+    "Therapeutic_indication": "Yakrutavikara, Kustha, Krimi, Vibandha, Gulma.",
+    "Amayika_Prayoga": [
+      "Kamala - Nasya of Kumari swarasa",
+      "Pleehavriddhi - Kumari swaras + haridra churna + jiraka",
+      "Vrana - kalka prepared from Kumari rasa + jiraka applied on the site"
+    ],
+    "Dose": ["Swaras 10 to 20 ml", ""],
+    "Yoga_formulation": [
+      "Kumari vati",
+      "Kumari Taila",
+      "Rajahpravartini vati",
+      "Kumaryasava"
+    ]
+  },
+  {
+    "drug_name": "Kumkum kesara",
+    "link": "/list/Kumkum kesara"
+  },
+  {
+    "drug_name": "Kupilu",
+    "link": "/list/Kupilu"
+  },
+  {
+    "drug_name": "Kushta",
+    "link": "/list/Kushta"
+  },
+  {
+    "drug_name": "Kutaja",
+    "link": "/list/Kutaja"
+  },
+  {
+    "drug_name": "Lavanga",
+    "link": "/list/Lavanga"
+  },
+  {
+    "drug_name": "Lodra",
+    "link": "/list/Lodra"
+  },
+  {
+    "drug_name": "Madanphala",
+    "link": "/list/Madanphala"
+  },
+  {
+    "drug_name": "Mandukaparni",
+    "link": "/list/Mandukaparni"
+  },
+  {
+    "drug_name": "Manjishtha",
+    "link": "/list/Manjishtha"
+  },
+  {
+    "drug_name": "Maricha",
+    "link": "/list/Maricha"
+  },
+  {
+    "drug_name": "Musta",
+    "link": "/list/Musta"
+  },
+  {
+    "drug_name": "Nagkeshar",
+    "link": "/list/Nagkeshar"
+  },
+  {
+    "drug_name": "Nimba",
+    "link": "/list/Nimba"
+  },
+  {
+    "drug_name": "Nirgundi",
+    "link": "/list/Nirgundi"
+  },
+  {
+    "drug_name": "Palasha",
+    "link": "/list/Palasha"
+  },
+  {
+    "drug_name": "Parpata",
+    "link": "/list/Parpata"
+  },
+  {
+    "drug_name": "Pashanabheda",
+    "link": "/list/Pashanabheda"
+  },
+  {
+    "drug_name": "Patala",
+    "link": "/list/Patala"
+  },
+  {
+    "drug_name": "Pippali - pippalimula",
+    "link": "/list/Pippali - pippalimula"
+  },
+  {
+    "drug_name": "Prishnaparni",
+    "Description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti laboriosam earum neque repellat vitae itaque, enim eos, quis saepe nam consequatur natus veritatis sed rerum voluptates iure illo a. Eveniet unde facilis fuga tempora! Deleniti eveniet alias a hic rerum ullam itaque, modi explicabo quaerat cupiditate esse illum doloremque nulla.",
+    "link": "/list/Prishnaparni",
+    "Synonymns": [
+      "पृथकपर्णी - Leaves of prisniparni appear very special and very district from other plants.",
+      "सिंहपृच्छि - Inflorescence of prisiniparni resembles the tail of a lion.",
+      "चित्रपर्णी - Prisiniparni leaves are mottled.",
+      "धावनी - prisiniparni expels the toxins from the bud."
+    ],
+    "Botanical_name": "Uraria picta, Family name Fabaceae",
+    "Classification": [
+      "Charak - Sandhaniya varga, Sothahara varga, Angamardaprasamana varga.",
+      "Sushruta - Vidarigandhadi varga, Haridradi varga, Laghupanchmula."
+    ],
+    "Habitat": "Grows throughout India. It is commonly seen in dry grass lands, waste places and open forests.",
+    "Habit": "An erect, little branched, perennial herb, grows 1 to 2 m in height.",
+    "Morphology": [
+      "Leaves - Leaves imparipinnate, 20 to30 cm long including petiole, leaflets on upper part 5-7, linear oblong.",
+      "Flowers -  Flower, purple in colour, in close fascicles along the rachis, downy with hooked hair, calyx longer",
+      "Fruits - pod, glabrous, pale lead coloured."
+      ],
+    "Useful_part": "Mula (root)",
+    "Phytoconstituents": "Amino acids and fatty acids ",
+    "Rasapanchaka": [
+      "Rasa - Madhur, Katu ",
+      "Guna - Laghu, Sara",
+      "Vipaka - Madhura",
+      "Virya - Usna",
+      "Doshakarma - Tridosha samaka"
+    ],
+    "Karma": "Vrushya, dahasamaka, jwaraghana.",
+    "Agrya_karma": "पृश्निपर्णी संगाहिकवाताहरदिपनीयवृष्याणाम् श्रेष्ठं । (च सू २५)",
+    "Therapeutic_indication": "Sukradourbalya, jwara, daha, Kasa, swasa.",
+    "Amayika_Prayoga": [
+      "Raktarsha - Prushnaparni mool kwathone.",
+      "Vatarakta - Prushnaparni swarasa processed with aja kshir + sugar and honey.",
+      "Raktatisara - peya processed with prisiniparni"
+    ],
+    "Dose": ["Kwatha – 40 to 80 ml", ""],
+    "Yoga_formulation": [
+      "Dasamularistha",
+      "Dasamula lepa",
+      "Prisiniparnyadi kwatha"
+    ]
+  },
+  {
+    "drug_name": "Punarnava",
+    "link": "/list/Punarnava"
+  },
+  {
+    "drug_name": "Pushkarmoola",
+    "link": "/list/Pushkarmoola"
+  },
+  {
+    "drug_name": "Rasana ",
+    "link": "/list/Rasana "
+  },
+  {
+    "drug_name": "Rasona",
+    "link": "/list/Rasona"
+  },
+  {
+    "drug_name": "Rohitaka",
+    "link": "/list/Rohitaka"
+  },
+  {
+    "drug_name": "Saireyaka",
+    "link": "/list/Saireyaka"
+  },
+  {
+    "drug_name": "Sarivadvaya",
+    "link": "/list/Sarivadvaya"
+  },
+  {
+    "drug_name": "Sarpagandha",
+    "link": "/list/Sarpagandha"
+  },
+  {
+    "drug_name": "Shalaparni",
+    "link": "/list/Shalaparni"
+  },
+  {
+    "drug_name": "Shallaki",
+    "link": "/list/Shallaki"
+  },
+  {
+    "drug_name": "Shalmali",
+    "link": "/list/Shalmali"
+  },
+  {
+    "drug_name": "Shankhpushpi",
+    "link": "/list/Shankhpushpi"
+  },
+  {
+    "drug_name": "Shatavari",
+    "link": "/list/Shatavari"
+  },
+  {
+    "drug_name": "Shigru",
+    "link": "/list/Shigru"
+  },
+  {
+    "drug_name": "Shirisha",
+    "link": "/list/Shirisha"
+  },
+  {
+    "drug_name": "Shyonaka",
+    "link": "/list/Shyonaka"
+  },
+  {
+    "drug_name": "Talisha Patra",
+    "link": "/list/Talisha Patra"
+  },
+  {
+    "drug_name": "Tila",
+    "link": "/list/Tila"
+  },
+  {
+    "drug_name": "Trivrut",
+    "link": "/list/Trivrut"
+  },
+  {
+    "drug_name": "Tulasi",
+    "link": "/list/Tulasi"
+  },
+  {
+    "drug_name": "Tvak",
+    "link": "/list/Tvak"
+  },
+  {
+    "drug_name": "Ushira",
+    "link": "/list/Ushira"
+  },
+  {
+    "drug_name": "Vacha",
+    "link": "/list/Vacha"
+  },
+  {
+    "drug_name": "Varahi",
+    "link": "/list/Varahi"
+  },
+  {
+    "drug_name": "Varuna",
+    "link": "/list/Varuna"
+  },
+  {
+    "drug_name": "Vasa",
+    "link": "/list/Vasa"
+  },
+  {
+    "drug_name": "Vatsanabh",
+    "link": "/list/Vatsanabh"
+  },
+  {
+    "drug_name": "Vidanga",
+    "link": "/list/Vidanga"
+  },
+  {
+    "drug_name": "Vidari",
+    "link": "/list/Vidari"
+  },
+  {
+    "drug_name": "Yastimadhu",
+    "link": "/list/Yastimadhu"
+  },
+  {
+    "drug_name": "Yavani",
+    "link": "/list/Yavani"
+  }
+]

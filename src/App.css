@@ -1,0 +1,252 @@
+.body{
+  overflow-x: hidden!important;
+}
+.navbar{
+  background-color: rgb(102, 248, 175);
+  /* color: red; */ 
+}
+.navbar-brand, .navbar-brand:hover{
+  font-size: 20px;
+  color: #ff9456;
+}
+.nav-link{
+  color: #ff9456;
+  font-size: 16px;
+}
+.nav-item span{
+  /* content: ""; */
+  position: absolute;
+  background-color: red;
+  height: 3px;
+  width: 100%;
+  left: 0;
+  bottom: -10px;
+}
+.nav-link:hover{
+  background-color: #ff9456;
+  color: white;
+}
+.nav-link:hover::before{
+  content: "→ "
+}
+.navbar-toggler{
+  font-size: 25px;
+  /* color: #ff9456; */
+  z-index: 11;
+  background-color: #8686ff;
+}
+.navbar-toggler span{
+  color: #ff831e;
+  /* font-size: 20px; */
+}
+/************************************************/
+.home-search{
+  position: relative;
+  margin-top: 5%;
+  background-color: transparent!important;
+}
+.txt{
+  font-size: 30px;
+}
+.main-search, .sug, .search-btn{
+  font-size: 15px;
+}
+/*******************/
+.box{
+  background-color: white;
+  border-radius: 5px;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+/*******************************/  
+.drug-description, blockquote{
+  font-size: 15px!important;
+  text-align: justify;
+  float: left;
+}
+.drug-image img{
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+/*********************************/
+@media only screen and (min-width: 800px) {
+  .box{
+    /* max-height: 160px; */
+  }
+}
+@media only screen and (min-width: 992px) {
+  .drug-image img{
+    width: 80%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .txt{
+    font-size: 40px;
+  }
+  .main-search, .sug, .search-btn{
+    font-size: 20px;
+  }
+  .box{
+    /* max-height: 120px; */
+  }
+  .drug-description, blockquote{
+    font-size: 18px!important;
+  }
+  .drug-image img{
+    width: 60%;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .main-search{
+    flex-direction: column;
+  }
+}
+
+/*@media only screen and (min-width: 1200px) {
+  .home-search{
+    margin-top: 15%;
+  }
+} */
+.txt, .main-search, .Description-page{
+  font-family: 'Poppins', sans-serif;
+}
+
+.sug{
+  text-align: center;
+  line-height: 40px;
+  background: #56ff68;
+  border-bottom: 2px solid rgba(0,0,0,0.25);
+}
+a:nth-child(odd) .sug{
+  background: #ff9456;
+}
+.box a{
+  color: black;
+  text-decoration: none;
+  line-height: 30px;
+}
+
+
+
+.firstWord{
+  font-weight: bolder;
+}
+blockquote{
+  text-align: left!important;
+}
+
+
+
+.list-search-box{
+  max-height: 60vh;
+  overflow-y: auto;
+}
+.list-search{
+  border-radius: 5px;
+  margin: 10px 0;
+  text-align: center;
+  background-color: #ff9456;
+}
+a:nth-child(odd) .list-search{
+  background-color: rgb(102, 248, 175);
+}
+.list-search-box a{
+  text-decoration: none;
+  color: black;
+  line-height: 40px;
+}
+
+
+
+
+
+
+
+
+nav{
+  height: 75px;
+  background-color: #16213d;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 0 10px;
+}
+nav .logo{
+  font-size: 30px;
+  color: #fff;
+  font-weight: 500;
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+nav ul li{
+  margin: 0 5px;
+}
+nav ul li a {
+  color: #fff;
+  text-decoration: none; 
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding: 8px 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+nav ul li a:hover{
+  color: #1b1b1b;
+  background: #fff;
+}
+nav .menu-btn i{
+  color: #fff;
+  font-size: 25px;
+  cursor: pointer;
+  display: none;
+}
+#click{
+  display: none;
+}
+@media (max-width: 940px) {
+  nav .logo{
+    font-size: 25px;
+  }
+  nav .menu-btn i{
+    display: block;
+  }
+  #click:checked ~ .menu-btn i:before{
+    content: "\F659";
+  }
+  nav ul{
+    position: fixed;
+    top: 75px;
+    left: -100%;
+    background: #111;
+    height: 100vh;
+    width: 100%;
+    display: block;
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+  #click:checked ~ ul{
+    left: 0%;
+  }
+  nav ul li{
+    margin: 40px 0;
+  }
+  nav ul li a{
+    font-size: 20px;
+    display: block;
+  }
+  nav ul li a:hover{
+    color: cyan;
+    background: none;
+  }
+  
+}
