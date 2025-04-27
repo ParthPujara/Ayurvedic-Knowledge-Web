@@ -1,6 +1,5 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import DATA from '../Data.json';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -12,6 +11,8 @@ const DrugDesc = () => {
   }, []);
   
   const { drugName } = useParams();
+  const [data, setData] = useState([]);
+
   const firstBold = (string) => {
     return <span className='firstWord'>{string.split(' ')[0]}</span>;
   }
@@ -23,14 +24,29 @@ const DrugDesc = () => {
     }
     return str.substring(word);
   }
+
+  const fetchDetails = async () => {
+    const url = await fetch(
+      "https://ayurvedic-knowledge-backend.onrender.com/",
+      {
+        method: "GET",
+      }
+    );
+    const response = await url.json();
+    if (response.status === "success") {
+      setData(response.data.result);
+    }
+  };
+
   useEffect(() => {
     document.title = drugName;
+    fetchDetails();
   });
   return (
     <>
     
       {
-        DATA.filter((val) => {
+        data.filter((val) => {
           if (drugName === "") {
             return 0;
           } else if (val.drug_name.toLowerCase().includes(drugName.toLowerCase())) {
@@ -134,7 +150,7 @@ const DrugDesc = () => {
                     <blockquote className="blockquote mb-0" style={{ marginTop: "-5px" }}>
                       <p>{val.Morphology.map((v, k) => {
                         return (
-                          <p key={k}>{v}</p>
+                          <p key={k}>{firstBold(v)}{restSentence(v)}</p>
                         )
                       })}</p>
                     </blockquote>
@@ -177,7 +193,7 @@ const DrugDesc = () => {
                     <blockquote className="blockquote mb-0" style={{ marginTop: "-5px" }}>
                       {val.Rasapanchaka.map((v, k) => {
                         return (
-                          <p key={k}>{v}</p>
+                          <p key={k}>{firstBold(v)}{restSentence(v)}</p>
                         )
                       })}
                     </blockquote>
